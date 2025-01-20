@@ -1,0 +1,23 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	世界崩解刃: {
+		DisplayName: 世界崩解刃
+		Tooltip:
+			'''
+			Template of an item
+			Replacing this tooltip is duty 
+			It's snowing on Mt.Fuji
+			'''
+	}
+
+	真世界崩解刃: {
+		// Tooltip: 一把可以毁灭世界的剑
+		// DisplayName: 真·世界崩解刃
+	}
+}
+
+Projectiles: {
+	// 世界崩解刃.DisplayName: 世界崩解刃
+	// 真世界崩解刃.DisplayName: 真世界崩解刃
+}

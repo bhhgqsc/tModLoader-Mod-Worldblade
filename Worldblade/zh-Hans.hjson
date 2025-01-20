@@ -1,0 +1,20 @@
+Mods: {
+	Worldblade: {
+		Items: {
+			世界崩解刃: {
+				// DisplayName: 世界崩解刃
+				// Tooltip: ""
+			}
+
+			真世界崩解刃: {
+				// DisplayName: 真世界崩解刃
+				// Tooltip: ""
+			}
+		}
+
+		Projectiles: {
+			// 世界崩解刃.DisplayName: 世界崩解刃
+			// 真世界崩解刃.DisplayName: 真世界崩解刃
+		}
+	}
+}
